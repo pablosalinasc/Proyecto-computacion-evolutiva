@@ -1,0 +1,124 @@
+
+Generation: 0
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.06000000238418579 Adjusted=0.9433962242931775 Hits=330
+Tree 0:
+ (Concatenar (Suma (Resta (Suma (Resta ListaRandom
+     ListaRandom) (Concatenar ListaRandom ListaRandom))
+     (Resta (Resta ListaRandom ListaRandom) (Concatenar
+         ListaRandom ListaRandom))) (Concatenar (Concatenar
+     (Truncar ListaRandom) (Resta ListaRandom
+     ListaRandom)) (Concatenar (Suma ListaRandom
+     ListaRandom) (Concatenar ListaRandom ListaRandom))))
+     (Concatenar (Suma (Concatenar (Concatenar
+         ListaRandom ListaRandom) (Resta ListaRandom
+         ListaRandom)) (Suma (Resta ListaRandom ListaRandom)
+         (Resta ListaRandom ListaRandom))) (Truncar
+         (Resta (Truncar ListaRandom) (Resta ListaRandom
+             ListaRandom)))))
+
+Generation: 1
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.06000000238418579 Adjusted=0.9433962242931775 Hits=332
+Tree 0:
+ (Concatenar (Suma (Truncar ListaRandom) (Concatenar
+     ListaRandom ListaRandom)) (Concatenar (Concatenar
+     ListaRandom (Concatenar ListaRandom ListaRandom))
+     (Concatenar ListaRandom ListaRandom)))
+
+Generation: 2
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.050000011920928955 Adjusted=0.9523809415683185 Hits=334
+Tree 0:
+ (Concatenar (Suma (Resta (Suma (Resta ListaRandom
+     ListaRandom) (Concatenar ListaRandom ListaRandom))
+     (Resta (Resta ListaRandom ListaRandom) (Concatenar
+         ListaRandom ListaRandom))) (Concatenar (Concatenar
+     (Truncar ListaRandom) (Resta ListaRandom
+     ListaRandom)) (Concatenar (Suma ListaRandom
+     ListaRandom) (Concatenar ListaRandom ListaRandom))))
+     (Concatenar (Suma (Concatenar (Concatenar
+         ListaRandom ListaRandom) (Concatenar ListaRandom
+         ListaRandom)) (Suma (Resta ListaRandom ListaRandom)
+         (Resta ListaRandom ListaRandom))) (Truncar
+         (Resta (Truncar ListaRandom) (Resta ListaRandom
+             ListaRandom)))))
+
+Generation: 3
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.050000011920928955 Adjusted=0.9523809415683185 Hits=334
+Tree 0:
+ (Concatenar (Suma (Concatenar ListaRandom
+     ListaRandom) (Concatenar ListaRandom ListaRandom))
+     (Concatenar (Concatenar ListaRandom (Concatenar
+         ListaRandom ListaRandom)) (Concatenar ListaRandom
+         ListaRandom)))
+
+Generation: 4
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.04000002145767212 Adjusted=0.9615384416996379 Hits=337
+Tree 0:
+ (Concatenar (Suma (Resta (Suma (Resta ListaRandom
+     ListaRandom) (Concatenar ListaRandom ListaRandom))
+     (Resta (Resta ListaRandom ListaRandom) (Concatenar
+         ListaRandom ListaRandom))) (Concatenar (Concatenar
+     (Truncar ListaRandom) (Resta ListaRandom
+     ListaRandom)) (Concatenar (Suma ListaRandom
+     ListaRandom) (Concatenar (Suma (Truncar ListaRandom)
+     (Concatenar ListaRandom (Concatenar (Concatenar
+         ListaRandom (Concatenar ListaRandom ListaRandom))
+         (Concatenar ListaRandom ListaRandom)))) ListaRandom))))
+     (Concatenar (Suma (Concatenar (Concatenar
+         ListaRandom ListaRandom) (Resta ListaRandom
+         ListaRandom)) (Suma (Resta ListaRandom ListaRandom)
+         (Resta ListaRandom ListaRandom))) (Truncar
+         (Resta (Truncar ListaRandom) (Resta ListaRandom
+             ListaRandom)))))
+
+Generation: 5
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.04000002145767212 Adjusted=0.9615384416996379 Hits=339
+Tree 0:
+ (Concatenar (Suma (Resta (Suma (Resta ListaRandom
+     ListaRandom) (Concatenar ListaRandom ListaRandom))
+     (Resta (Concatenar (Concatenar ListaRandom
+         (Concatenar ListaRandom ListaRandom)) (Concatenar
+         ListaRandom ListaRandom)) (Concatenar ListaRandom
+         ListaRandom))) (Concatenar (Concatenar (Truncar
+     ListaRandom) (Resta ListaRandom ListaRandom))
+     (Concatenar (Suma ListaRandom ListaRandom)
+         (Concatenar (Concatenar (Suma (Concatenar
+             ListaRandom ListaRandom) (Concatenar ListaRandom
+             ListaRandom)) (Concatenar (Suma (Resta (Suma
+             (Resta ListaRandom ListaRandom) (Concatenar
+             ListaRandom ListaRandom)) (Resta (Resta ListaRandom
+             ListaRandom) (Concatenar ListaRandom ListaRandom)))
+             (Concatenar (Concatenar (Truncar ListaRandom)
+                 (Resta ListaRandom ListaRandom)) (Concatenar
+                 (Suma ListaRandom ListaRandom) (Concatenar
+                 (Suma (Truncar ListaRandom) (Concatenar ListaRandom
+                     ListaRandom)) ListaRandom)))) (Concatenar
+             (Suma (Concatenar (Concatenar ListaRandom
+                 ListaRandom) (Resta ListaRandom ListaRandom))
+                 (Suma (Resta ListaRandom ListaRandom) (Resta
+                     ListaRandom ListaRandom))) (Truncar (Resta
+             (Truncar ListaRandom) (Resta ListaRandom
+             ListaRandom)))))) ListaRandom)))) (Concatenar
+     (Suma (Concatenar (Concatenar ListaRandom
+         ListaRandom) (Resta ListaRandom ListaRandom))
+         (Suma (Resta ListaRandom ListaRandom) (Resta
+             ListaRandom ListaRandom))) (Truncar (Resta
+     (Truncar ListaRandom) (Resta ListaRandom
+     ListaRandom)))))

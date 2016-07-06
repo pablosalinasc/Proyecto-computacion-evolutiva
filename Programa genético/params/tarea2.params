@@ -1,0 +1,31 @@
+parent.0 = koza.params
+
+# the next four items are already defined in koza.params, but we
+# put them here to be clear.
+
+# We have one function set, of class GPFunctionSet
+gp.fs.size = 1
+gp.fs.0 = ec.gp.GPFunctionSet
+# We'll call the function set "f0".  It uses the default GPFuncInfo class
+gp.fs.0.name = f0
+gp.fs.0.info = ec.gp.GPFuncInfo
+
+# We have five functions in the function set.  They are:
+gp.fs.0.size = 5
+gp.fs.0.func.0 = ec.app.tarea2.ListaRandom
+gp.fs.0.func.0.nc = nc0
+gp.fs.0.func.1 = ec.app.tarea2.Concatena
+gp.fs.0.func.1.nc = nc2
+gp.fs.0.func.2 = ec.app.tarea2.Suma
+gp.fs.0.func.2.nc = nc2
+gp.fs.0.func.3 = ec.app.tarea2.Resta
+gp.fs.0.func.3.nc = nc2
+gp.fs.0.func.4 = ec.app.tarea2.Trunca
+gp.fs.0.func.4.nc = nc1
+
+eval.problem = ec.app.tarea2.FeatureSelection
+eval.problem.data = ec.app.tarea2.CaractSelectData
+# The following should almost *always* be the same as eval.problem.data
+# For those who are interested, it defines the data object used internally
+# inside ADF stack contexts
+eval.problem.stack.context.data = ec.app.tarea2.CaractSelectData
